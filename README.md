@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Kibshindo/PMTI/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="Classeur1.htm">Consulter le planning </a>
+<a href="Chiffrage NSK.htm">Tableau test n°2 </a>
 
 ### Markdown
 
