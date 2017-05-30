@@ -1,14 +1,10 @@
-## Welcome to GitHub Pages
+## Hello
 
-You can use the [editor on GitHub](https://github.com/Kibshindo/PMTI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-<a href="chiffrage NSK.htm">Tableau test n°2 </a>
 
 ### Markdown
 
-<a href="Classeur1.htm">Consulter le planning </a>
+<a href="NEW PLANNING MTI 2017.htm">Consulter le planning </a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
